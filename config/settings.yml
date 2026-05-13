@@ -1,0 +1,36 @@
+sentiment_model_path: data/models/news_sentiment_regression
+start_date: "2000-01-01"
+end_date: "2025-05-25"
+model:
+  batch_size: 64
+  early_stop: 10
+  epochs: 1000
+  horizon: 30
+  hyperopt:
+    enabled: false
+    n_trials: 100
+  name: TCN
+  params:
+    NLinear:
+      lr: 1e-3
+      pred_len: 1
+      seq_len: 24
+    TCN:
+      dropout: 0.26827389280290476
+      input_dim: 1
+      kernel_size: 8
+      lr: 0.00014194736807875908
+      num_channels:
+        - 117
+        - 234
+        - 468
+        - 936
+    Transformer:
+      d_model: 64
+      dropout: 0.1
+      lr: 1e-3
+      nhead: 4
+      num_layers: 2
+  seq_len: 180
+training:
+  force_retrain: true

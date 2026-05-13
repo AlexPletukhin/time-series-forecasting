@@ -1,0 +1,16 @@
+pandas
+numpy
+requests
+tqdm
+beautifulsoup4
+selenium
+webdriver-manager
+PySide6
+pyyaml
+optuna
+torch
+torchvision
+torchaudio
+transformers
+matplotlib
+lxml
