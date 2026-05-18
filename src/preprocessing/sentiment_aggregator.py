@@ -30,7 +30,7 @@ def aggregate(inp: Path, outp: Path, log=None):
     if pd.api.types.is_integer_dtype(ser.dtype) or pd.api.types.is_float_dtype(ser.dtype):
         dt = pd.to_datetime(ser, unit="ms", errors="coerce")
     else:
-        dt = pd.to_datetime(ser, errors="coerce")
+        dt = pd.to_datetime(ser, format="%Y-%m-%d", errors="coerce")
     df["date"] = dt
 
     # 4. Группируем по дате и считаем средний сентимент
