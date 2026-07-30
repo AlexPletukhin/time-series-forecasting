@@ -11,6 +11,7 @@ from ..utils import default_logger
 from .models.tcn import TCNRegression
 from .models.transformer import TransformerRegressor
 from .models.nlinear import NLinear
+from .models.lstm import LSTMRegressor
 
 # девайс
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -20,6 +21,7 @@ MODEL_REGISTRY = {
     "TCN": TCNRegression,
     "Transformer": TransformerRegressor,
     "NLinear": NLinear,
+    "LSTM": LSTMRegressor
 }
 
 # пространства гиперпараметров

@@ -1,36 +1,52 @@
 sentiment_model_path: data/models/news_sentiment_regression
 start_date: "2000-01-01"
-end_date: "2025-05-25"
+end_date: "2026-04-25"
 model:
   batch_size: 64
   early_stop: 10
   epochs: 1000
-  horizon: 30
+  horizon: 5
   hyperopt:
     enabled: false
     n_trials: 100
-  name: TCN
+  name: LSTM
   params:
+    ARIMA:
+      p: 5
+      d: 1
+      q: 0
     NLinear:
-      lr: 1e-3
+      lr: 0.001
       pred_len: 1
-      seq_len: 24
     TCN:
-      dropout: 0.26827389280290476
-      input_dim: 1
-      kernel_size: 8
+      dropout: 0.4
+      kernel_size: 3
       lr: 0.00014194736807875908
       num_channels:
-        - 117
-        - 234
-        - 468
-        - 936
+        - 32
+        - 64
     Transformer:
       d_model: 64
       dropout: 0.1
-      lr: 1e-3
+      lr: 0.001
       nhead: 4
       num_layers: 2
+    LSTM:
+      hidden_size: 64
+      num_layers: 2
+      dropout: 0.2
+      lr: 0.001
+
   seq_len: 180
 training:
   force_retrain: true
+features:
+  use_sentiment: false
+
+#Transformer | RMSE=33.31 | MAPE=9.63%
+#LSTM | RMSE=21.00 | MAPE=5.93%
+#TCN | RMSE=12.02 | MAPE=3.23%
+#NLinear | RMSE=10.90 | MAPE=2.65%
+
+#ARIMA RMSE=42.73  |  MAPE=13.28%
+#NLinear RMSE=11.89  |  MAPE=2.99%

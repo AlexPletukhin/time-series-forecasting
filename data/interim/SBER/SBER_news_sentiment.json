@@ -152,5 +152,971 @@
         "link": "https://ru.investing.com/news/general-news/article-3235193",
         "text": "",
         "sentiment": -0.4347025752067566
+    },
+    {
+        "title": "Уорш вместо Пауэлла. Доллар в силе, Иран в огне, рубль под вопросом",
+        "date": "назад-01-09",
+        "link": "https://ru.investing.com/analysis/article-200331893",
+        "text": "",
+        "sentiment": -0.06580836744979024
+    },
+    {
+        "title": "Есть ли сила в рынке? Как определить силу рынка акций?",
+        "date": "2026-05-14",
+        "link": "https://ru.investing.com/analysis/article-200331784",
+        "text": "",
+        "sentiment": -0.01757152401842177
+    },
+    {
+        "title": "Четыре идеи: 2 акции вверх, 2 акции вниз",
+        "date": "2026-05-18",
+        "link": "https://ru.investing.com/analysis/article-200331861",
+        "text": "",
+        "sentiment": 0.16752780973911285
+    },
+    {
+        "title": "Риск переоценки российского рынка",
+        "date": "2026-05-14",
+        "link": "https://ru.investing.com/analysis/article-200331763",
+        "text": "",
+        "sentiment": -0.0024420428089797497
+    },
+    {
+        "title": "Триада глобальных рисков",
+        "date": "2026-05-18",
+        "link": "https://ru.investing.com/analysis/article-200331853",
+        "text": "",
+        "sentiment": -0.009958751499652863
+    },
+    {
+        "title": "Рынок акций уперся в сопротивление",
+        "date": "2026-05-14",
+        "link": "https://ru.investing.com/analysis/article-200331759",
+        "text": "",
+        "sentiment": 0.04114311281591654
+    },
+    {
+        "title": "ВТБ ухудшил прогноз по росту экономики России на 2026 год",
+        "date": "2026-05-18",
+        "link": "https://ru.investing.com/news/general-news/article-3241334",
+        "text": "",
+        "sentiment": -0.11804935336112976
+    },
+    {
+        "title": "Сбер увеличил чистую прибыль в апреле на 21%",
+        "date": "2026-05-13",
+        "link": "https://ru.investing.com/news/general-news/article-3235193",
+        "text": "",
+        "sentiment": -0.4347025752067566
+    },
+    {
+        "title": "Финансовый сектор РФ — главный бенефициар высокой ставки ЦБ: топ-акции мая 2026",
+        "date": "2026-05-17",
+        "link": "https://ru.investing.com/analysis/article-200331832",
+        "text": "",
+        "sentiment": 0.9401106508666999
+    },
+    {
+        "title": "Уорш вместо Пауэлла. Доллар в силе, Иран в огне, рубль под вопросом",
+        "date": "назад-01-09",
+        "link": "https://ru.investing.com/analysis/article-200331893",
+        "text": "",
+        "sentiment": -0.06580836744979024
+    },
+    {
+        "title": "Четыре идеи: 2 акции вверх, 2 акции вниз",
+        "date": "2026-05-18",
+        "link": "https://ru.investing.com/analysis/article-200331861",
+        "text": "",
+        "sentiment": 0.16752780973911285
+    },
+    {
+        "title": "Триада глобальных рисков",
+        "date": "2026-05-18",
+        "link": "https://ru.investing.com/analysis/article-200331853",
+        "text": "",
+        "sentiment": -0.009958751499652863
+    },
+    {
+        "title": "ВТБ ухудшил прогноз по росту экономики России на 2026 год",
+        "date": "2026-05-18",
+        "link": "https://ru.investing.com/news/general-news/article-3241334",
+        "text": "",
+        "sentiment": -0.11804935336112976
+    },
+    {
+        "title": "Финансовый сектор РФ — главный бенефициар высокой ставки ЦБ: топ-акции мая 2026",
+        "date": "2026-05-17",
+        "link": "https://ru.investing.com/analysis/article-200331832",
+        "text": "",
+        "sentiment": 0.9401106508666999
+    },
+    {
+        "title": "Есть ли сила в рынке? Как определить силу рынка акций?",
+        "date": "2026-05-14",
+        "link": "https://ru.investing.com/analysis/article-200331784",
+        "text": "",
+        "sentiment": -0.01757152401842177
+    },
+    {
+        "title": "Риск переоценки российского рынка",
+        "date": "2026-05-14",
+        "link": "https://ru.investing.com/analysis/article-200331763",
+        "text": "",
+        "sentiment": -0.0024420428089797497
+    },
+    {
+        "title": "Рынок акций уперся в сопротивление",
+        "date": "2026-05-14",
+        "link": "https://ru.investing.com/analysis/article-200331759",
+        "text": "",
+        "sentiment": 0.04114311281591654
+    },
+    {
+        "title": "Сбер увеличил чистую прибыль в апреле на 21%",
+        "date": "2026-05-13",
+        "link": "https://ru.investing.com/news/general-news/article-3235193",
+        "text": "",
+        "sentiment": -0.4347025752067566
+    },
+    {
+        "title": "Уорш вместо Пауэлла. Доллар в силе, Иран в огне, рубль под вопросом",
+        "date": "назад-01-10",
+        "link": "https://ru.investing.com/analysis/article-200331893",
+        "text": "",
+        "sentiment": -0.06580836744979024
+    },
+    {
+        "title": "Уорш вместо Пауэлла. Доллар в силе, Иран в огне, рубль под вопросом",
+        "date": "назад-01-10",
+        "link": "https://ru.investing.com/analysis/article-200331893",
+        "text": "",
+        "sentiment": -0.06580836744979024
+    },
+    {
+        "title": "Уорш вместо Пауэлла. Доллар в силе, Иран в огне, рубль под вопросом",
+        "date": "назад-01-11",
+        "link": "https://ru.investing.com/analysis/article-200331893",
+        "text": "",
+        "sentiment": -0.06580836744979024
+    },
+    {
+        "title": "Уорш вместо Пауэлла. Доллар в силе, Иран в огне, рубль под вопросом",
+        "date": "назад-01-11",
+        "link": "https://ru.investing.com/analysis/article-200331893",
+        "text": "",
+        "sentiment": -0.06580836744979024
+    },
+    {
+        "title": "Сбер хочет использовать китайские чипы для работы Гигачата",
+        "date": "назад-01-01",
+        "link": "https://ru.investing.com/news/general-news/article-3245272",
+        "text": "",
+        "sentiment": -0.007800305204000324
+    },
+    {
+        "title": "Уорш вместо Пауэлла. Доллар в силе, Иран в огне, рубль под вопросом",
+        "date": "2026-05-19",
+        "link": "https://ru.investing.com/analysis/article-200331893",
+        "text": "",
+        "sentiment": -0.06580836744979024
+    },
+    {
+        "title": "Сбер хочет использовать китайские чипы для работы Гигачата",
+        "date": "назад-01-01",
+        "link": "https://ru.investing.com/news/general-news/article-3245272",
+        "text": "",
+        "sentiment": -0.007800305204000324
+    },
+    {
+        "title": "Уорш вместо Пауэлла. Доллар в силе, Иран в огне, рубль под вопросом",
+        "date": "2026-05-19",
+        "link": "https://ru.investing.com/analysis/article-200331893",
+        "text": "",
+        "sentiment": -0.06580836744979024
+    },
+    {
+        "title": "Сбер хочет использовать китайские чипы для работы Гигачата",
+        "date": "назад-01-02",
+        "link": "https://ru.investing.com/news/general-news/article-3245272",
+        "text": "",
+        "sentiment": -0.007800305204000324
+    },
+    {
+        "title": "Сбер хочет использовать китайские чипы для работы Гигачата",
+        "date": "назад-01-02",
+        "link": "https://ru.investing.com/news/general-news/article-3245272",
+        "text": "",
+        "sentiment": -0.007800305204000324
+    },
+    {
+        "title": "Обзор рынков по волнам Эллиотта. Форекс, золото, серебро, S&P",
+        "date": "назад-01-10",
+        "link": "https://ru.investing.com/analysis/article-200331931",
+        "text": "",
+        "sentiment": -0.003138277679681778
+    },
+    {
+        "title": "Обзор рынков по волнам Эллиотта. Форекс, золото, серебро, S&P",
+        "date": "назад-01-10",
+        "link": "https://ru.investing.com/analysis/article-200331931",
+        "text": "",
+        "sentiment": -0.003138277679681778
+    },
+    {
+        "title": "Обзор рынков по волнам Эллиотта. Форекс, золото, серебро, S&P",
+        "date": "назад-01-23",
+        "link": "https://ru.investing.com/analysis/article-200331931",
+        "text": "",
+        "sentiment": -0.003138277679681778
+    },
+    {
+        "title": "Обзор рынков по волнам Эллиотта. Форекс, золото, серебро, S&P",
+        "date": "назад-01-23",
+        "link": "https://ru.investing.com/analysis/article-200331931",
+        "text": "",
+        "sentiment": -0.003138277679681778
+    },
+    {
+        "title": "Обзор рынков по волнам Эллиотта. Форекс, золото, серебро, S&P",
+        "date": "назад-01-35",
+        "link": "https://ru.investing.com/analysis/article-200331931",
+        "text": "",
+        "sentiment": -0.003138277679681778
+    },
+    {
+        "title": "Обзор рынков по волнам Эллиотта. Форекс, золото, серебро, S&P",
+        "date": "назад-01-35",
+        "link": "https://ru.investing.com/analysis/article-200331931",
+        "text": "",
+        "sentiment": -0.003138277679681778
+    },
+    {
+        "title": "Обзор рынков по волнам Эллиотта. Форекс, золото, серебро, S&P",
+        "date": "назад-01-02",
+        "link": "https://ru.investing.com/analysis/article-200331931",
+        "text": "",
+        "sentiment": -0.003138277679681778
+    },
+    {
+        "title": "Сбер хочет использовать китайские чипы для работы Гигачата",
+        "date": "назад-01-04",
+        "link": "https://ru.investing.com/news/general-news/article-3245272",
+        "text": "",
+        "sentiment": -0.007800305204000324
+    },
+    {
+        "title": "Обзор рынков по волнам Эллиотта. Форекс, золото, серебро, S&P",
+        "date": "назад-01-02",
+        "link": "https://ru.investing.com/analysis/article-200331931",
+        "text": "",
+        "sentiment": -0.003138277679681778
+    },
+    {
+        "title": "Сбер хочет использовать китайские чипы для работы Гигачата",
+        "date": "назад-01-04",
+        "link": "https://ru.investing.com/news/general-news/article-3245272",
+        "text": "",
+        "sentiment": -0.007800305204000324
+    },
+    {
+        "title": "Обзор рынков по волнам Эллиотта. Форекс, золото, серебро, S&P",
+        "date": "назад-01-03",
+        "link": "https://ru.investing.com/analysis/article-200331931",
+        "text": "",
+        "sentiment": -0.003138277679681778
+    },
+    {
+        "title": "Сбер хочет использовать китайские чипы для работы Гигачата",
+        "date": "назад-01-05",
+        "link": "https://ru.investing.com/news/general-news/article-3245272",
+        "text": "",
+        "sentiment": -0.007800305204000324
+    },
+    {
+        "title": "Обзор рынков по волнам Эллиотта. Форекс, золото, серебро, S&P",
+        "date": "назад-01-03",
+        "link": "https://ru.investing.com/analysis/article-200331931",
+        "text": "",
+        "sentiment": -0.003138277679681778
+    },
+    {
+        "title": "Сбер хочет использовать китайские чипы для работы Гигачата",
+        "date": "назад-01-05",
+        "link": "https://ru.investing.com/news/general-news/article-3245272",
+        "text": "",
+        "sentiment": -0.007800305204000324
+    },
+    {
+        "title": "Сбер хочет использовать китайские чипы для работы Гигачата",
+        "date": "назад-01-06",
+        "link": "https://ru.investing.com/news/general-news/article-3245272",
+        "text": "",
+        "sentiment": -0.007800305204000324
+    },
+    {
+        "title": "Сбер хочет использовать китайские чипы для работы Гигачата",
+        "date": "назад-01-06",
+        "link": "https://ru.investing.com/news/general-news/article-3245272",
+        "text": "",
+        "sentiment": -0.007800305204000324
+    },
+    {
+        "title": "Обзор рынков по волнам Эллиотта. Форекс, золото, серебро, S&P",
+        "date": "назад-01-04",
+        "link": "https://ru.investing.com/analysis/article-200331931",
+        "text": "",
+        "sentiment": -0.003138277679681778
+    },
+    {
+        "title": "Обзор рынков по волнам Эллиотта. Форекс, золото, серебро, S&P",
+        "date": "назад-01-04",
+        "link": "https://ru.investing.com/analysis/article-200331931",
+        "text": "",
+        "sentiment": -0.003138277679681778
+    },
+    {
+        "title": "Сбер хочет использовать китайские чипы для работы Гигачата",
+        "date": "назад-01-07",
+        "link": "https://ru.investing.com/news/general-news/article-3245272",
+        "text": "",
+        "sentiment": -0.007800305204000324
+    },
+    {
+        "title": "Сбер хочет использовать китайские чипы для работы Гигачата",
+        "date": "назад-01-07",
+        "link": "https://ru.investing.com/news/general-news/article-3245272",
+        "text": "",
+        "sentiment": -0.007800305204000324
+    },
+    {
+        "title": "Обзор рынков по волнам Эллиотта. Форекс, золото, серебро, S&P",
+        "date": "назад-01-05",
+        "link": "https://ru.investing.com/analysis/article-200331931",
+        "text": "",
+        "sentiment": -0.003138277679681778
+    },
+    {
+        "title": "Обзор рынков по волнам Эллиотта. Форекс, золото, серебро, S&P",
+        "date": "назад-01-05",
+        "link": "https://ru.investing.com/analysis/article-200331931",
+        "text": "",
+        "sentiment": -0.003138277679681778
+    },
+    {
+        "title": "Обзор рынков по волнам Эллиотта. Форекс, золото, серебро, S&P",
+        "date": "назад-01-06",
+        "link": "https://ru.investing.com/analysis/article-200331931",
+        "text": "",
+        "sentiment": -0.003138277679681778
+    },
+    {
+        "title": "Сбер хочет использовать китайские чипы для работы Гигачата",
+        "date": "назад-01-08",
+        "link": "https://ru.investing.com/news/general-news/article-3245272",
+        "text": "",
+        "sentiment": -0.007800305204000324
+    },
+    {
+        "title": "Обзор рынков по волнам Эллиотта. Форекс, золото, серебро, S&P",
+        "date": "назад-01-06",
+        "link": "https://ru.investing.com/analysis/article-200331931",
+        "text": "",
+        "sentiment": -0.003138277679681778
+    },
+    {
+        "title": "Сбер хочет использовать китайские чипы для работы Гигачата",
+        "date": "назад-01-08",
+        "link": "https://ru.investing.com/news/general-news/article-3245272",
+        "text": "",
+        "sentiment": -0.007800305204000324
+    },
+    {
+        "title": "Обзор рынков по волнам Эллиотта. Золото, рубль, S&P, форекс, биткоин",
+        "date": "2026-05-30",
+        "link": "https://ru.investing.com/analysis/article-200332179",
+        "text": "",
+        "sentiment": 0.004974120296537876
+    },
+    {
+        "title": "Рынок ищет драйвер",
+        "date": "2026-05-29",
+        "link": "https://ru.investing.com/analysis/article-200332145",
+        "text": "",
+        "sentiment": -0.30439766496419907
+    },
+    {
+        "title": "Индекс Мосбиржи на годовых минимумах, нефть развернулась вниз",
+        "date": "2026-05-29",
+        "link": "https://ru.investing.com/analysis/article-200332174",
+        "text": "",
+        "sentiment": -0.061719030141830444
+    },
+    {
+        "title": "Структуры Сбера ведут переговоры о получении доли в Ozon",
+        "date": "2026-05-29",
+        "link": "https://ru.investing.com/news/general-news/article-3255649",
+        "text": "",
+        "sentiment": 0.0009590774425305426
+    },
+    {
+        "title": "Мосбиржа увеличила расчетный free-float Сбербанка сразу до 50%",
+        "date": "2026-05-29",
+        "link": "https://ru.investing.com/news/general-news/article-3256663",
+        "text": "",
+        "sentiment": 0.3014606535434723
+    },
+    {
+        "title": "Т-Технологии — № 2 за Сбером по привлекательности в секторе",
+        "date": "2026-05-28",
+        "link": "https://ru.investing.com/analysis/article-200332134",
+        "text": "",
+        "sentiment": 0.045254622265929356
+    },
+    {
+        "title": "Sell in May and Go Away 2026: работает ли стратегия в этом году",
+        "date": "2026-05-29",
+        "link": "https://ru.investing.com/analysis/article-200332163",
+        "text": "",
+        "sentiment": -0.0004841182962991297
+    },
+    {
+        "title": "Хочу продать все акции",
+        "date": "2026-05-27",
+        "link": "https://ru.investing.com/analysis/article-200332103",
+        "text": "",
+        "sentiment": 0.4287987109273672
+    },
+    {
+        "title": "Русагро войдет в индекс МосБиржи вместо ПИКа с 19 июня",
+        "date": "2026-05-29",
+        "link": "https://ru.investing.com/news/general-news/article-3256339",
+        "text": "",
+        "sentiment": -0.9758256059139967
+    },
+    {
+        "title": "Совокупные дивиденды госкомпаний государству превысили 1 трлн рублей",
+        "date": "2026-05-26",
+        "link": "https://ru.investing.com/news/general-news/article-3251028",
+        "text": "",
+        "sentiment": 0.026753233280032873
+    },
+    {
+        "title": "Обзор рынков по волнам Эллиотта. Золото, рубль, S&P, форекс, биткоин",
+        "date": "2026-05-30",
+        "link": "https://ru.investing.com/analysis/article-200332179",
+        "text": "",
+        "sentiment": 0.004974120296537876
+    },
+    {
+        "title": "Индекс Мосбиржи на годовых минимумах, нефть развернулась вниз",
+        "date": "2026-05-29",
+        "link": "https://ru.investing.com/analysis/article-200332174",
+        "text": "",
+        "sentiment": -0.061719030141830444
+    },
+    {
+        "title": "Мосбиржа увеличила расчетный free-float Сбербанка сразу до 50%",
+        "date": "2026-05-29",
+        "link": "https://ru.investing.com/news/general-news/article-3256663",
+        "text": "",
+        "sentiment": 0.3014606535434723
+    },
+    {
+        "title": "Sell in May and Go Away 2026: работает ли стратегия в этом году",
+        "date": "2026-05-29",
+        "link": "https://ru.investing.com/analysis/article-200332163",
+        "text": "",
+        "sentiment": -0.0004841182962991297
+    },
+    {
+        "title": "Русагро войдет в индекс МосБиржи вместо ПИКа с 19 июня",
+        "date": "2026-05-29",
+        "link": "https://ru.investing.com/news/general-news/article-3256339",
+        "text": "",
+        "sentiment": -0.9758256059139967
+    },
+    {
+        "title": "Рынок ищет драйвер",
+        "date": "2026-05-29",
+        "link": "https://ru.investing.com/analysis/article-200332145",
+        "text": "",
+        "sentiment": -0.30439766496419907
+    },
+    {
+        "title": "Структуры Сбера ведут переговоры о получении доли в Ozon",
+        "date": "2026-05-29",
+        "link": "https://ru.investing.com/news/general-news/article-3255649",
+        "text": "",
+        "sentiment": 0.0009590774425305426
+    },
+    {
+        "title": "Т-Технологии — № 2 за Сбером по привлекательности в секторе",
+        "date": "2026-05-28",
+        "link": "https://ru.investing.com/analysis/article-200332134",
+        "text": "",
+        "sentiment": 0.045254622265929356
+    },
+    {
+        "title": "Хочу продать все акции",
+        "date": "2026-05-27",
+        "link": "https://ru.investing.com/analysis/article-200332103",
+        "text": "",
+        "sentiment": 0.4287987109273672
+    },
+    {
+        "title": "Совокупные дивиденды госкомпаний государству превысили 1 трлн рублей",
+        "date": "2026-05-26",
+        "link": "https://ru.investing.com/news/general-news/article-3251028",
+        "text": "",
+        "sentiment": 0.026753233280032873
+    },
+    {
+        "title": "Обзор рынков по волнам Эллиотта. Металлы, S&P, форекс, криптовалюта",
+        "date": "назад-01-03",
+        "link": "https://ru.investing.com/analysis/article-200332288",
+        "text": "",
+        "sentiment": -0.000480690854601562
+    },
+    {
+        "title": "Мосбиржа отказалась от повышения free-float Сбербанка до 50%",
+        "date": "назад-01-11",
+        "link": "https://ru.investing.com/news/general-news/article-3260686",
+        "text": "",
+        "sentiment": -0.881719097495079
+    },
+    {
+        "title": "Обзор рынков по волнам Эллиотта. Металлы, S&P, форекс, криптовалюта",
+        "date": "назад-01-03",
+        "link": "https://ru.investing.com/analysis/article-200332288",
+        "text": "",
+        "sentiment": -0.000480690854601562
+    },
+    {
+        "title": "Мосбиржа отказалась от повышения free-float Сбербанка до 50%",
+        "date": "назад-01-11",
+        "link": "https://ru.investing.com/news/general-news/article-3260686",
+        "text": "",
+        "sentiment": -0.881719097495079
+    },
+    {
+        "title": "Обзор рынков по волнам Эллиотта. Металлы, S&P, форекс, криптовалюта",
+        "date": "назад-01-04",
+        "link": "https://ru.investing.com/analysis/article-200332288",
+        "text": "",
+        "sentiment": -0.000480690854601562
+    },
+    {
+        "title": "Обзор рынков по волнам Эллиотта. Металлы, S&P, форекс, криптовалюта",
+        "date": "назад-01-04",
+        "link": "https://ru.investing.com/analysis/article-200332288",
+        "text": "",
+        "sentiment": -0.000480690854601562
+    },
+    {
+        "title": "Мосбиржа отказалась от повышения free-float Сбербанка до 50%",
+        "date": "назад-01-12",
+        "link": "https://ru.investing.com/news/general-news/article-3260686",
+        "text": "",
+        "sentiment": -0.881719097495079
+    },
+    {
+        "title": "Мосбиржа отказалась от повышения free-float Сбербанка до 50%",
+        "date": "назад-01-12",
+        "link": "https://ru.investing.com/news/general-news/article-3260686",
+        "text": "",
+        "sentiment": -0.881719097495079
+    },
+    {
+        "title": "Лето на Мосбирже: стоит ли доверять статистике?",
+        "date": "назад-01-17",
+        "link": "https://ru.investing.com/analysis/article-200332559",
+        "text": "",
+        "sentiment": -0.029402662039501593
+    },
+    {
+        "title": "Новая эскалация",
+        "date": "2026-06-10",
+        "link": "https://ru.investing.com/analysis/article-200332460",
+        "text": "",
+        "sentiment": 0.048982635140419006
+    },
+    {
+        "title": "Обзор рынков по волнам Эллиотта. Металлы, биткоин, эфир, тесла, S&P",
+        "date": "2026-06-13",
+        "link": "https://ru.investing.com/analysis/article-200332555",
+        "text": "",
+        "sentiment": -0.002282959409058094
+    },
+    {
+        "title": "Рынки в боковике в ожидании большей определённости по ставке и макропрогнозу",
+        "date": "2026-06-09",
+        "link": "https://ru.investing.com/analysis/article-200332440",
+        "text": "",
+        "sentiment": -0.11138791218400002
+    },
+    {
+        "title": "Физики продолжают покупать, но рынку это не помогает",
+        "date": "2026-06-11",
+        "link": "https://ru.investing.com/analysis/article-200332521",
+        "text": "",
+        "sentiment": -0.3195607475936413
+    },
+    {
+        "title": "Сбер увеличил чистую прибыль на 20,5% до 169,4 млрд руб. в мае",
+        "date": "2026-06-09",
+        "link": "https://ru.investing.com/news/general-news/article-3267308",
+        "text": "",
+        "sentiment": 0.9051409242674708
+    },
+    {
+        "title": "Сбер заявил, что ИИ автономно выдал заемщикам кредиты на 6 трлн рублей",
+        "date": "2026-06-11",
+        "link": "https://ru.investing.com/news/general-news/article-3270683",
+        "text": "",
+        "sentiment": 0.025471518747508526
+    },
+    {
+        "title": "Геополитика плюс доллар плюс ИИ",
+        "date": "2026-06-09",
+        "link": "https://ru.investing.com/analysis/article-200332420",
+        "text": "",
+        "sentiment": -0.04514117678627372
+    },
+    {
+        "title": "Обзор рынков по волнам Эллиотта. Рубль, криптовалюта, газ, металлы, S&P",
+        "date": "2026-06-10",
+        "link": "https://ru.investing.com/analysis/article-200332483",
+        "text": "",
+        "sentiment": -0.0019551364239305258
+    },
+    {
+        "title": "Российский рынок сохраняет слабость у годовых минимумов",
+        "date": "2026-06-09",
+        "link": "https://ru.investing.com/analysis/article-200332419",
+        "text": "",
+        "sentiment": -0.07076168432831764
+    },
+    {
+        "title": "Лето на Мосбирже: стоит ли доверять статистике?",
+        "date": "назад-01-17",
+        "link": "https://ru.investing.com/analysis/article-200332559",
+        "text": "",
+        "sentiment": -0.029402662039501593
+    },
+    {
+        "title": "Обзор рынков по волнам Эллиотта. Металлы, биткоин, эфир, тесла, S&P",
+        "date": "2026-06-13",
+        "link": "https://ru.investing.com/analysis/article-200332555",
+        "text": "",
+        "sentiment": -0.002282959409058094
+    },
+    {
+        "title": "Физики продолжают покупать, но рынку это не помогает",
+        "date": "2026-06-11",
+        "link": "https://ru.investing.com/analysis/article-200332521",
+        "text": "",
+        "sentiment": -0.3195607475936413
+    },
+    {
+        "title": "Сбер заявил, что ИИ автономно выдал заемщикам кредиты на 6 трлн рублей",
+        "date": "2026-06-11",
+        "link": "https://ru.investing.com/news/general-news/article-3270683",
+        "text": "",
+        "sentiment": 0.025471518747508526
+    },
+    {
+        "title": "Обзор рынков по волнам Эллиотта. Рубль, криптовалюта, газ, металлы, S&P",
+        "date": "2026-06-10",
+        "link": "https://ru.investing.com/analysis/article-200332483",
+        "text": "",
+        "sentiment": -0.0019551364239305258
+    },
+    {
+        "title": "Новая эскалация",
+        "date": "2026-06-10",
+        "link": "https://ru.investing.com/analysis/article-200332460",
+        "text": "",
+        "sentiment": 0.048982635140419006
+    },
+    {
+        "title": "Рынки в боковике в ожидании большей определённости по ставке и макропрогнозу",
+        "date": "2026-06-09",
+        "link": "https://ru.investing.com/analysis/article-200332440",
+        "text": "",
+        "sentiment": -0.11138791218400002
+    },
+    {
+        "title": "Сбер увеличил чистую прибыль на 20,5% до 169,4 млрд руб. в мае",
+        "date": "2026-06-09",
+        "link": "https://ru.investing.com/news/general-news/article-3267308",
+        "text": "",
+        "sentiment": 0.9051409242674708
+    },
+    {
+        "title": "Геополитика плюс доллар плюс ИИ",
+        "date": "2026-06-09",
+        "link": "https://ru.investing.com/analysis/article-200332420",
+        "text": "",
+        "sentiment": -0.04514117678627372
+    },
+    {
+        "title": "Российский рынок сохраняет слабость у годовых минимумов",
+        "date": "2026-06-09",
+        "link": "https://ru.investing.com/analysis/article-200332419",
+        "text": "",
+        "sentiment": -0.07076168432831764
+    },
+    {
+        "title": "Лето на Мосбирже: стоит ли доверять статистике?",
+        "date": "назад-01-18",
+        "link": "https://ru.investing.com/analysis/article-200332559",
+        "text": "",
+        "sentiment": -0.029402662039501593
+    },
+    {
+        "title": "Лето на Мосбирже: стоит ли доверять статистике?",
+        "date": "назад-01-18",
+        "link": "https://ru.investing.com/analysis/article-200332559",
+        "text": "",
+        "sentiment": -0.029402662039501593
+    },
+    {
+        "title": "Обзор на неделю",
+        "date": "2026-07-27",
+        "link": "https://ru.investing.com/analysis/article-200333735",
+        "text": "",
+        "sentiment": -0.7165156379342079
+    },
+    {
+        "title": "Сбербанк запустил обмен валюты в банкоматах",
+        "date": "2026-07-23",
+        "link": "https://ru.investing.com/news/general-news/article-3315563",
+        "text": "",
+        "sentiment": -0.25264616310596466
+    },
+    {
+        "title": "Обзор рынков по волнам Эллиотта. Форекс, рубль, крипта, нефть, металлы",
+        "date": "2026-07-25",
+        "link": "https://ru.investing.com/analysis/article-200333720",
+        "text": "",
+        "sentiment": -0.0062995279440656304
+    },
+    {
+        "title": "Индекс Мосбиржи выходит из пике: какие бумаги уже можно покупать?",
+        "date": "2026-07-22",
+        "link": "https://ru.investing.com/analysis/article-200333632",
+        "text": "",
+        "sentiment": -0.3102772613056004
+    },
+    {
+        "title": "ЦБ может сделать «иксы» на продаже доли в операторе карт «Мир»",
+        "date": "2026-07-24",
+        "link": "https://ru.investing.com/news/general-news/article-3317366",
+        "text": "",
+        "sentiment": 0.00034193205647170544
+    },
+    {
+        "title": "Техническое восстановление",
+        "date": "2026-07-22",
+        "link": "https://ru.investing.com/analysis/article-200333613",
+        "text": "",
+        "sentiment": 0.31951240659691393
+    },
+    {
+        "title": "Сбербанк перестанет обслуживать валютные карты Visa с 1 сентября",
+        "date": "2026-07-24",
+        "link": "https://ru.investing.com/news/general-news/article-3316847",
+        "text": "",
+        "sentiment": -0.723728209733963
+    },
+    {
+        "title": "Рынок акций отскочил, но не развернулся",
+        "date": "2026-07-21",
+        "link": "https://ru.investing.com/analysis/article-200333569",
+        "text": "",
+        "sentiment": -0.1276141181588173
+    },
+    {
+        "title": "Что изменилось в экономике России к опорному заседанию ЦБ по ключевой ставке",
+        "date": "2026-07-23",
+        "link": "https://ru.investing.com/news/general-news/article-3316224",
+        "text": "",
+        "sentiment": -0.042228474747389555
+    },
+    {
+        "title": "Чем вам плох уровень 1900 п., чтобы развернуться?",
+        "date": "2026-07-21",
+        "link": "https://ru.investing.com/analysis/article-200333567",
+        "text": "",
+        "sentiment": -0.7915479093790054
+    },
+    {
+        "title": "Обзор на неделю",
+        "date": "2026-07-27",
+        "link": "https://ru.investing.com/analysis/article-200333735",
+        "text": "",
+        "sentiment": -0.7165156379342079
+    },
+    {
+        "title": "Обзор рынков по волнам Эллиотта. Форекс, рубль, крипта, нефть, металлы",
+        "date": "2026-07-25",
+        "link": "https://ru.investing.com/analysis/article-200333720",
+        "text": "",
+        "sentiment": -0.0062995279440656304
+    },
+    {
+        "title": "ЦБ может сделать «иксы» на продаже доли в операторе карт «Мир»",
+        "date": "2026-07-24",
+        "link": "https://ru.investing.com/news/general-news/article-3317366",
+        "text": "",
+        "sentiment": 0.00034193205647170544
+    },
+    {
+        "title": "Сбербанк перестанет обслуживать валютные карты Visa с 1 сентября",
+        "date": "2026-07-24",
+        "link": "https://ru.investing.com/news/general-news/article-3316847",
+        "text": "",
+        "sentiment": -0.723728209733963
+    },
+    {
+        "title": "Что изменилось в экономике России к опорному заседанию ЦБ по ключевой ставке",
+        "date": "2026-07-23",
+        "link": "https://ru.investing.com/news/general-news/article-3316224",
+        "text": "",
+        "sentiment": -0.042228474747389555
+    },
+    {
+        "title": "Сбербанк запустил обмен валюты в банкоматах",
+        "date": "2026-07-23",
+        "link": "https://ru.investing.com/news/general-news/article-3315563",
+        "text": "",
+        "sentiment": -0.25264616310596466
+    },
+    {
+        "title": "Индекс Мосбиржи выходит из пике: какие бумаги уже можно покупать?",
+        "date": "2026-07-22",
+        "link": "https://ru.investing.com/analysis/article-200333632",
+        "text": "",
+        "sentiment": -0.3102772613056004
+    },
+    {
+        "title": "Техническое восстановление",
+        "date": "2026-07-22",
+        "link": "https://ru.investing.com/analysis/article-200333613",
+        "text": "",
+        "sentiment": 0.31951240659691393
+    },
+    {
+        "title": "Рынок акций отскочил, но не развернулся",
+        "date": "2026-07-21",
+        "link": "https://ru.investing.com/analysis/article-200333569",
+        "text": "",
+        "sentiment": -0.1276141181588173
+    },
+    {
+        "title": "Чем вам плох уровень 1900 п., чтобы развернуться?",
+        "date": "2026-07-21",
+        "link": "https://ru.investing.com/analysis/article-200333567",
+        "text": "",
+        "sentiment": -0.7915479093790054
+    },
+    {
+        "title": "Убыток Сбера от непрофильных бизнесов составил почти 88 млрд рублей",
+        "date": "назад-01-05",
+        "link": "https://ru.investing.com/news/general-news/article-3323863",
+        "text": "",
+        "sentiment": -0.5021050162613392
+    },
+    {
+        "title": "Инициатива вновь на стороне продавцов",
+        "date": "назад-01-13",
+        "link": "https://ru.investing.com/analysis/article-200333812",
+        "text": "",
+        "sentiment": -0.08609541319310665
+    },
+    {
+        "title": "Прибыль Сбера превысила триллион",
+        "date": "назад-01-06",
+        "link": "https://ru.investing.com/analysis/article-200333837",
+        "text": "",
+        "sentiment": -0.19760316610336304
+    },
+    {
+        "title": "Сбер нарастил долю в «Элементе» до 49,8% — акции взлетели на 18%",
+        "date": "назад-01-07",
+        "link": "https://ru.investing.com/news/general-news/article-3323561",
+        "text": "",
+        "sentiment": 0.4180944813415408
+    },
+    {
+        "title": "Чистая прибыль Сбербанка за полугодие превысила 1 трлн руб.",
+        "date": "назад-01-10",
+        "link": "https://ru.investing.com/news/general-news/article-3322948",
+        "text": "",
+        "sentiment": -0.8284697905182838
+    },
+    {
+        "title": "Рынок акций пытается лечь в боковик",
+        "date": "назад-01-11",
+        "link": "https://ru.investing.com/analysis/article-200333817",
+        "text": "",
+        "sentiment": -0.019697397365234792
+    },
+    {
+        "title": "Убыток Сбера от непрофильных бизнесов составил почти 88 млрд рублей",
+        "date": "назад-01-05",
+        "link": "https://ru.investing.com/news/general-news/article-3323863",
+        "text": "",
+        "sentiment": -0.5021050162613392
+    },
+    {
+        "title": "Прибыль Сбера превысила триллион",
+        "date": "назад-01-06",
+        "link": "https://ru.investing.com/analysis/article-200333837",
+        "text": "",
+        "sentiment": -0.19760316610336304
+    },
+    {
+        "title": "Сбер нарастил долю в «Элементе» до 49,8% — акции взлетели на 18%",
+        "date": "назад-01-07",
+        "link": "https://ru.investing.com/news/general-news/article-3323561",
+        "text": "",
+        "sentiment": 0.4180944813415408
+    },
+    {
+        "title": "Чистая прибыль Сбербанка за полугодие превысила 1 трлн руб.",
+        "date": "назад-01-10",
+        "link": "https://ru.investing.com/news/general-news/article-3322948",
+        "text": "",
+        "sentiment": -0.8284697905182838
+    },
+    {
+        "title": "Рынок акций пытается лечь в боковик",
+        "date": "назад-01-11",
+        "link": "https://ru.investing.com/analysis/article-200333817",
+        "text": "",
+        "sentiment": -0.019697397365234792
+    },
+    {
+        "title": "Инициатива вновь на стороне продавцов",
+        "date": "назад-01-13",
+        "link": "https://ru.investing.com/analysis/article-200333812",
+        "text": "",
+        "sentiment": -0.08609541319310665
+    },
+    {
+        "title": "Рынок акций пытается лечь в боковик",
+        "date": "назад-01-12",
+        "link": "https://ru.investing.com/analysis/article-200333817",
+        "text": "",
+        "sentiment": -0.019697397365234792
+    },
+    {
+        "title": "Рынок акций пытается лечь в боковик",
+        "date": "назад-01-12",
+        "link": "https://ru.investing.com/analysis/article-200333817",
+        "text": "",
+        "sentiment": -0.019697397365234792
     }
 ]
